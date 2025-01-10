@@ -11,11 +11,11 @@ click on the "check near by stores button " to view the near by store
 http://127.0.0.1:8000/admin/login
 
 use above url to login
-before login plz make seed this (no ui to add ademin)
+before login plz make seed this (no ui to add admin)
 php artisan db:seed --class=AdminSeeder
 
 
-use this amin credential
+use this admin credential
 username :admin@ipix.com
 password:admin@123
 
